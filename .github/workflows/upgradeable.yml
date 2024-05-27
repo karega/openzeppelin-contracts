@@ -15,7 +15,7 @@ jobs:
         with:
           repository: karega/openzeppelin-contracts-upgradeable
           fetch-depth: 0
-          token: ${{ secrets.GH_TOKEN_UPGRADEABLE }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Fetch current non-upgradeable branch
         run: |
           git fetch "$REMOTE" master # Fetch default branch first for patch to apply cleanly
