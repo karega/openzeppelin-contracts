@@ -11,4 +11,4 @@ about: Suggest an idea for OpenZeppelin Contracts
 <!-- Please describe your feature request in detail. -->
 
 <!-- Make sure that you have reviewed the OpenZeppelin Contracts Contributor Guidelines. -->
-<!-- https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/CONTRIBUTING.md -->
+<!-- https://github.com/karega/openzeppelin-contracts/blob/master/CONTRIBUTING.md -->
